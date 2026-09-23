@@ -1,0 +1,20 @@
+{
+    "application": "Krushi Sahayak",
+    "tagline": "Smarter Decisions. Stronger Farms.",
+    "data_mode": "DEMO",
+    "description": "Prototype demonstration dataset for agricultural market intelligence and farmer decision support.",
+    "features": [
+        "Personal Farmer Dashboard",
+        "Market Intelligence",
+        "AI-assisted Crop Image Analysis",
+        "Agriculture Expert Connect",
+        "Crop Advisory",
+        "Government Schemes",
+        "Agricultural Alerts",
+        "Sustainable Farming",
+        "Agricultural Input Directory"
+    ],
+    "image_detection_note": "Image analysis is AI-assisted identification only and does not constitute a confirmed diagnosis or treatment recommendation.",
+    "prediction_disclaimer": "AI-assisted market outlooks are estimates and do not guarantee future prices, profits or income.",
+    "treatment_policy": "Krushi Sahayak does not independently prescribe pesticides, herbicides, medicines, dosages or treatment schedules. Farmers are directed to qualified agricultural experts for confirmation and treatment advice."
+}
